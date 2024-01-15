@@ -4,7 +4,7 @@ print("Hallo Git")
 
 print("Hallo Bonn")
 
-print("Hallo World!")
+print("Hallo Go IT!")
 
 name = "Mykhailo"
 age = 30
