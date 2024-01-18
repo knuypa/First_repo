@@ -11,4 +11,4 @@ second_name = "Knuipa"
 age = 30
 city = "Bonn"
 
-print(name, age, city)
+print(name,second_name, age, city)
