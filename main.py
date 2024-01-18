@@ -8,5 +8,6 @@ print("Hallo Go IT!")
 
 name = "Mykhailo"
 age = 30
+city = "Bonn"
 
-print(name, age)
+print(name, age, city)
