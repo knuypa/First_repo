@@ -11,6 +11,7 @@ second_name = "Knuipa"
 age = 30
 height = 1.64
 weight = 78.5
+country = "Germany"
 city = "Bonn"
 
-print(name,second_name, age, height, weight, city)
+print(name,second_name, age, height, weight, country, city)
