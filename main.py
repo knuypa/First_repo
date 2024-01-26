@@ -13,5 +13,6 @@ height = 1.64
 weight = 78.5
 country = "Germany"
 city = "Bonn"
+street = "Brunsgasse"
 
-print(name,second_name, age, height, weight, country, city)
+print(name,second_name, age, height, weight, country, city, street)
