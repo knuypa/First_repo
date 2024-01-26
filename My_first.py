@@ -16,5 +16,6 @@ if team_name == "FC_Bonn":
         if player_second_name == "Artem":
             if player_number == "10":
                 print("Hello Artem Dovbyk -you are TOP player")
-                elif player_first_name == "Tsugankov"
+            elif player_first_name == "Tsugankov":
+                elif == player_second_name == "Vitaliy":
 
